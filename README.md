@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Jha</h1>
 <h3 align="center">A passionate DevOps engineer from India</h3>
 
-<img align="right" alt="developer"width="500" src="https://outlane.co/now/new-shot-programmer-animation/">
+![image](https://github.com/Ankit8848/Ankit8848/assets/107815079/05caf4a9-6843-4037-8a22-b83ccc99f451)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit8848&label=Profile%20views&color=0e75b6&style=flat" alt="ankit8848" /> </p>
 
