@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar Jha</h1>
-<h3 align="center">A passionate DevOps engineer from India</h3>
+<h3 align="center">A passionate DevOps engineer from Nepal</h3>
 
 ![image](https://github.com/Ankit8848/Ankit8848/assets/107815079/05caf4a9-6843-4037-8a22-b83ccc99f451)
 
