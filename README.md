@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit8848&label=Profile%20views&color=0e75b6&style=flat" alt="ankit8848" /> </p>
 
-- 🌱 I’m currently learning **Docker,Jenkins,Kubernetes,Terraform**
+- 🌱 I’m currently learning **Linux, Docker,Jenkins,Kubernetes,Terraform**
 
-- 👨‍💻 All of my projects are available at [ankitkumarjha.com](ankitkumarjha.com)
+- 👨‍💻 All of my projects are available at [ankitkumarjha.com](https://ankitkumarjha.com/)
 
 - 📝 I regularly write articles on [ankitjhablog.hashnode.dev](https://ankitjhablog.hashnode.dev/)
 
