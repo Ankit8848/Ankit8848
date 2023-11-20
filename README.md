@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ankitkumarjha@protonmail.com**
 
-- 📄 Know about my experiences [ankitkumarjha.com](ankitkumarjha.com)
+- 📄 Know about my experiences [https://www.ankitkumarjha.com](ankitkumarjha.com)
 
 - ⚡ Fun fact **always ready to learn new stuff.**
 
