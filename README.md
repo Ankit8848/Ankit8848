@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang, Linux, Docker, Jenkins, Kubernetes, Terraform**
 
-- 👨‍💻 All of my projects are available at [ankitkumarjha.com](https://ankitkumarjha.com/)
+- 👨‍💻 All of my projects are available at [here.](https://ankitjha.live/)
 
 - 📝 I regularly write articles on [ankitjhablog.hashnode.dev](https://ankitjhablog.hashnode.dev/)
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **ankitkumarjha@protonmail.com**
 
-- 📄 Know about my experiences [ankitkumarjha.com](https://ankitkumarjha.com/)
+- 📄 Know about my experiences [here.](https://ankitjha.live/)
 
 - ⚡ Fun fact **always ready to learn new stuff.**
 
