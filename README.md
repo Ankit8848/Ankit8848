@@ -22,7 +22,7 @@
 
 - ⚡ Fun fact **always ready to learn new stuff.**
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Technologies & Tools:
 
 <p float="left">
   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/ubu.png"  height="85" />
@@ -36,8 +36,6 @@
  
 </p>
 
-
-# 💻 Tech Stack:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
