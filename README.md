@@ -12,6 +12,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit8848&label=Profile%20views&color=0e75b6&style=flat" alt="ankit8848" /> </p>
 
+<p align="center">
+<img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/coding.gif"  height="120" />
+</p>
+
 - 🌱 I’m currently learning **Golang, Linux, Docker, Jenkins, Kubernetes, Terraform**
 
 - 👨‍💻 All of my projects are available at [here.](https://ankitjha.live/)
