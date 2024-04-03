@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/go.gif"  height="120" />
-  <img src="https://giphy.com/gifs/eternalfamilytv-eternal-family-tv-99ers-qofG1bKJK0OWOK8OHe"/>
+  <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/devops.gif" height="120"/>
 </p>
 
 
