@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/go.gif"  height="120" />
-  <div style="width:100%;height:0;padding-bottom:73%;position:relative;"><iframe src="https://giphy.com/embed/qofG1bKJK0OWOK8OHe" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/eternalfamilytv-eternal-family-tv-99ers-qofG1bKJK0OWOK8OHe">via GIPHY</a></p>
+  <img src="https://giphy.com/gifs/eternalfamilytv-eternal-family-tv-99ers-qofG1bKJK0OWOK8OHe"/>
 </p>
 
 
