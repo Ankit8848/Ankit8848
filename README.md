@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/go.gif"  height="120" />
-  <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/devops.gif" height="120"/>
+  
 </p>
 
 
@@ -70,6 +70,10 @@
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD)
 
 # 📫 How to reach me?
+
+<p align="center">
+<img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/devops.gif" height="120"/>
+</p>
 
 - Portfolio [Ankit Kumar Jha](https://ankitjha.live/)
 
