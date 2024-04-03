@@ -1,7 +1,34 @@
 <h1 align="center">Hey 👋, I'm Ankit Kumar Jha</h1>
-<h3 align="center">DevOps Enthusiast || Open Source Contributor || Technical Writer || Content Creator = Nothing</h3>
+<h3 align="center">A passionate Golang Developer & DevOps Enthusiast from Nepal NP </h3>
+<h3 align="center">I :heart: open source!</h3>
+  
 
-![image](https://github.com/Ankit8848/Ankit8848/assets/107815079/05caf4a9-6843-4037-8a22-b83ccc99f451)
+<p align="center">
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/go.gif"  height="120" />
+</p>
+
+## 🚀💻 Technologies & Tools
+
+<p float="left">
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/ubu.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/go.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/vscode.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/postgres.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/mysql.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/docker.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/chrome.png"  height="85" />
+  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/terminal-512.png"  height="85" />
+ 
+</p>
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) 
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=flat-square&logo=PostgreSQL)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit8848&label=Profile%20views&color=0e75b6&style=flat" alt="ankit8848" /> </p>
@@ -14,14 +41,17 @@
 
 - 💬 Ask me about **DevOps**
 
-- 📫 How to reach me **ankitkumarjha@protonmail.com**
-
 - 📄 Know about my experiences [here.](https://ankitjha.live/)
 
 - ⚡ Fun fact **always ready to learn new stuff.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+# 📫 How to reach me?
+
+- Portfolio [Ankit Kumar Jha](https://ankitjha.live/)
+
+- 📫 Email **akj@ankitjha.live**
+
+ <p float="centre">
 <a href="https://twitter.com/ankitkumar8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkumar8848" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankit-kumar-jha-670695274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-jha-670695274" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21786034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21786034" height="30" width="40" /></a>
