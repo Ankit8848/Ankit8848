@@ -71,7 +71,7 @@
 
 # 📫 How to reach me?
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/devops.gif" height="120"/>
 </p>
 
