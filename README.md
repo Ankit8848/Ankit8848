@@ -12,7 +12,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit8848&label=Profile%20views&color=0e75b6&style=flat" alt="ankit8848" /> </p>
 
-<p align="center">
+<p align="left">
 <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/coding.gif"  height="120" />
 </p>
 
