@@ -10,7 +10,7 @@
 ## 🚀💻 Technologies & Tools
 
 <p float="left">
-  <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/ubu.png"  height="85" />
+  <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/ubu.png"  height="85" />
   <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/go.png"  height="85" />
   <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/vscode.png"  height="85" />
   <img src="https://github.com/gopheramol/gopheramol/blob/main/assets/postgres.png"  height="85" />
