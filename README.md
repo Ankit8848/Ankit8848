@@ -96,9 +96,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankit8848&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit8848&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ankit8848&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ankit8848&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
