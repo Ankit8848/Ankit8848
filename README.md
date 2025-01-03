@@ -32,13 +32,17 @@
 
 <p float="left">
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/rust-lang-official.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/webassembly.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/lua-official.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/git-scm.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/linux.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/archlinux.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/debian.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/kubernetes.svg"  height="85" />
+  <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/haskell.svg"  height="85" />
+   
 
 </p>
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux) 
-![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) 
 
 
 # 📫 How to reach me?
