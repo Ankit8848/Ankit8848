@@ -30,7 +30,8 @@
 
 ## 🚀💻 Technologies & Tools:
 
-<p float="left">
+<div style="background-color: white;">
+  <p float="left">
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/rust-lang-official.svg"  height="85" />
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/webassembly.svg"  height="85" />
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/lua-official.svg"  height="85" />
@@ -43,6 +44,8 @@
    
 
 </p>
+</div>
+
 
 
 # 📫 How to reach me?
