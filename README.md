@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ankit Kumar Jha</h1>
-<h3 align="center">A passionate Golang Developer & DevOps Enthusiast from Nepal NP </h3>
+<h3 align="center">A passionate Rust Developer from Nepal </h3>
 <h3 align="center">I :heart: open source!</h3>
   
 
@@ -16,13 +16,13 @@
 <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/coding.gif"  height="120" />
 </p>
 
-- 🌱 I’m currently learning **Golang, Linux, Docker, Jenkins, Kubernetes, Terraform**
+- 🌱 I’m currently learning **Rust, Linux, Kubernetes, System Design, Wasm, DevOps**
 
 - 👨‍💻 All of my projects are available at [here.](https://ankitjha.live/)
 
 - 📝 I regularly write articles on [ankitjhablog.hashnode.dev](https://ankitjhablog.hashnode.dev/)
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Rust**
 
 - 📄 Know about my experiences [here.](https://ankitjha.live/)
 
@@ -81,7 +81,7 @@
 
 - Portfolio [Ankit Kumar Jha](https://ankitjha.live/)
 
-- 📫 Email **akj@ankitjha.live**
+- 📫 Email **ankitkumarjha@protonmail.com**
 
  <p float="centre">
 <a href="https://twitter.com/ankitkumar8848" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitkumar8848" height="30" width="40" /></a>
