@@ -30,10 +30,10 @@
 
 ## 🚀💻 Technologies & Tools:
 
-<div style="background-color: white;">
+
   <p float="left">
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/rust-lang-official.svg"  height="85" />
-   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/webassembly.svg"  height="85" />
+   <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/webassembly.svg"  height="85" background-color: white;/>
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/lua-official.svg"  height="85" />
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/git-scm.svg"  height="85" />
    <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/linux.svg"  height="85" />
@@ -44,7 +44,7 @@
    
 
 </p>
-</div>
+
 
 
 
