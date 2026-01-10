@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Ankit Kumar Jha</h1>
-<h3 align="center">A passionate Rust Developer from Nepal </h3>
+<h3 align="center">Software developer crafting custom websites, ERP, and EMS systems | building 
+@brmma_ </h3>
 <h3 align="center">I :heart: open source!</h3>
   
 
@@ -16,15 +17,15 @@
 <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/coding.gif"  height="120" />
 </p>
 
-- 🌱 I’m currently learning **Rust, Linux, Kubernetes, System Design, Wasm, DevOps**
+- 🌱 I’m currently learning **Php, Laravel, Javascript, Rust, Linux, Kubernetes, System Design, Wasm, DevOps**
 
-- 👨‍💻 All of my projects are available at [here.](https://ankitjha.live/)
+- 👨‍💻 All of my projects are available at [here.](https://www.ankitkumarjha.tech/projects)
 
-- 📝 I regularly write articles on [ankitjhablog.hashnode.dev](https://ankitjhablog.hashnode.dev/)
+- 📝 I regularly write articles on [blog](https://www.ankitkumarjha.tech/blogs)
 
-- 💬 Ask me about **Rust**
+- 💬 Ask me about **Startups**
 
-- 📄 Know about my experiences [here.](https://ankitjha.live/)
+- 📄 Know about my experiences [here.](https://www.ankitkumarjha.tech/)
 
 - ⚡ Fun fact **always ready to learn new stuff.**
 
@@ -54,9 +55,9 @@
 <img src="https://github.com/Ankit8848/Ankit8848/blob/main/assets/devops.gif" height="120"/>
 </p>
 
-- Portfolio [Ankit Kumar Jha](https://ankitjha.live/)
+- Portfolio [Ankit Kumar Jha](https://www.ankitkumarjha.tech/)
 
-- 📫 Email **ankitkumarjha@protonmail.com**
+- 📫 Email **ankitkumarjha591@gmail.com**
 
  <p float="centre">
 <a href="https://bsky.app/profile/ankitkumarjha.bsky.social" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/bluesky.svg" alt="stuxnet3816" height="30" width="40" /></a>
