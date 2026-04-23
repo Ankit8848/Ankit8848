@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Ankit Kumar Jha</h1>
-<h3 align="center">Software developer crafting custom websites, ERP, and EMS systems | building 
+<h3 align="center">Loves Backend Engineering | building 
 @brmma_ </h3>
 <h3 align="center">I :heart: open source!</h3>
   
@@ -62,8 +62,8 @@
  <p float="centre">
 <a href="https://bsky.app/profile/ankitkumarjha.bsky.social" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/bluesky.svg" alt="stuxnet3816" height="30" width="40" /></a>
 <a href="https://mastodon.social/@ankitkumarjha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/mastodon.svg" alt="ankitkumarjha" height="30" width="40" /></a>
-<a href="https://x.com/ankitkumar8848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/x.svg" alt="ankitkumar8848" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ankit-kumar-jha-670695274" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-jha-670695274" height="30" width="40" /></a>
+<a href="https://x.com/mamsaty" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/x.svg" alt="ankitkumar8848" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankitkrj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-kumar-jha-670695274" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21786034" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/stackoverflow.svg" alt="user:21786034" height="30" width="40" /></a>
 <a href="https://hashnode.com/@ankitjha8848" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@14.0.1/icons/hashnode.svg" alt="@ankitjha8848" height="30" width="40" /></a>
 </p>
